@@ -6,7 +6,7 @@
 
 ## Ebook Resources
 
-- [Beginning App Development With Flutter by Rap Payne](./Beginning App Development With Flutter by Rap Payne.pdf)
+- [Beginning App Development With Flutter by Rap Payne](https://github.com/goldcoders/Flutter/blob/master/Beginning%20App%20Development%20With%20Flutter%20by%20Rap%20Payne.pdf)
 - Beginnning Flutter by Marco Napoli
 - Dart By Example by Davy Mitchell
 - Dart Cookbook By Ivo Balbaert
