@@ -45,6 +45,7 @@
 
 ## Share this all who wanna learn Dart & Flutter Apps Development
 
-Sharing is Caring <3
+Sharing is Caring 💖
+
 
 
