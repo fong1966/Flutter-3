@@ -6,6 +6,8 @@
 
 ## Sharing is Caring 💖
 
+> Starring this Project is the Best thing You Can Do 😊
+
 ## Ebook Resources
 
 - [Beginning App Development With Flutter by Rap Payne](https://github.com/goldcoders/Flutter/blob/master/Beginning%20App%20Development%20With%20Flutter%20by%20Rap%20Payne.pdf)
