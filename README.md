@@ -1,6 +1,6 @@
 # Learn Dart & Flutter
 
-## Best of the Best : 21 Premium Ebooks on Learning Dart & Flutter
+## Best of the Best : 24 Premium Ebooks on Learning Dart & Flutter
 
 - Beginning App Development With Flutter by Rap Payne
 - Beginnning Flutter by Marco Napoli
