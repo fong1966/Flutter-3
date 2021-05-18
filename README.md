@@ -1,6 +1,10 @@
 # Learn Dart & Flutter
 
-## Best of the Best : 24 Premium Ebooks on Learning Dart & Flutter
+## Wanna Request Ebooks or Videos?
+
+[Create a Request of the Video or Ebooks: Click Here](https://github.com/goldcoders/Flutter/issues/new)
+
+## Ebook Resources
 
 - Beginning App Development With Flutter by Rap Payne
 - Beginnning Flutter by Marco Napoli
@@ -27,7 +31,7 @@
 - Flutter Succinctly by Ed Freitas
 - Programming Flutter by Carmine Zaccagnino
 
-## [Private Collections of Video Tutorials shared on Google Drive](https://drive.google.com/drive/folders/1Z07DTGcu8rTvaVIBBs7iZkjkwsx4p97Y?usp=sharing)
+## [Videos: Click Here To View List on Google Drive](https://drive.google.com/drive/folders/1Z07DTGcu8rTvaVIBBs7iZkjkwsx4p97Y?usp=sharing)
 
 - Udemy - The Complete Flutter UI Masterclass  iOS & Android in Dart
 - Udemy - The Complete 2020 Flutter Development Bootcamp with Dart
@@ -41,6 +45,6 @@
 
 ## Share this all who wanna learn Dart & Flutter Apps Development
 
-## Wanna Request Ebooks or Videos?
+Sharing is Caring <3
 
-[Create a Request of the Video or Ebooks: Click Here](https://github.com/goldcoders/Flutter/issues/new)
+
