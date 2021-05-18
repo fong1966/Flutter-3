@@ -27,4 +27,16 @@
 - Flutter Succinctly by Ed Freitas
 - Programming Flutter by Carmine Zaccagnino
 
+## [Private Collections of Video Tutorials shared on Google Drive](https://drive.google.com/drive/folders/1Z07DTGcu8rTvaVIBBs7iZkjkwsx4p97Y?usp=sharing)
+
+- Udemy - The Complete Flutter UI Masterclass  iOS & Android in Dart
+- Udemy - The Complete 2020 Flutter Development Bootcamp with Dart
+- Udemy - Flutter & Dart - The Complete Guide [2020 Edition]
+- Udemy - Flutter - Advanced Course
+- Udemy - Dart and Flutter The Complete Developer's Guide
+- Udemy - Dart 2 Complete Bootcamp - Go Hero from Zero in Dart Flutter
+- Udemy - Build a Social Network with Flutter and Firebase
+- SkillShare - Flutter - How to Build an Ultimate Responsive App
+- Fireship.io - Flutter Firebase The Full Course
+
 ## Share this all who wanna learn Dart & Flutter Apps Development
