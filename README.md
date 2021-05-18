@@ -2,7 +2,7 @@
 
 ## Wanna Request Ebooks or Videos?
 
-[Create a Request of the Video or Ebooks: Click Here](https://github.com/goldcoders/Flutter/issues/new)
+[Create a Request of the Video or Ebooks: Click Here](https://github.com/goldcoders/Flutter/issues/new?assignees=&labels=&template=request-ebook-or-video-tutorial-.md&title=)
 
 ## Sharing is Caring 💖
 
